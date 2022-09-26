@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "demosheets-316218",
-  "private_key_id": "e08b96384bd259266a90513ed81f06ed61e56b00",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDAo0dkwMJY5q1P\nDuHAHjjvSfXtMcobeTaFWkXW1olABfa0r0uPAnemOzQFSIMPOR0DUfh8+u7WXj2Y\naTnL7UeQJu9Yx+vrcd0IY5zXLt9L6z5l4Cmhw9a7BD+yFF6FR8jTdPxMIUtbT0r4\nfKAg2WHgkw/CJ+aEXuFIYCN4Gn0ESkhQFKlWnDd7EmF/hnRYRc/ubp/qfcOuVfSP\nx5dZGVI5TitSOUENck6k4oCOyoS8xVl8nHaUmaZBMcYQSzaR2FVtz2nEzic1cAAf\nJWK0upTu+AREVfkTSpi3ypD6VyMfH2shywxrDOzccVa9Lr8UP3BI/lM8S4uqXU8T\nacceFl19AgMBAAECggEAAnnR1O4iOLRwvrbqZ44tHXY1bUMo3axMYWXFAix7F2p8\nNMfVN7K04b2Z+gWPfB8QkNtvdp43U1B2wx/JjtcbkIH2+7QNeeC86qwSAL7t8BU9\neDgwkMpMpenDTB7JDcA+SP0oFAuj9pxQ5jQSnd5jh86cEHhzvFFWUvq7zaleakbo\numbBvvA/s/KwVbv3D5l92N3CDfkfES5l/arjN5K4ziVGkDqfiiqtKc+LuohX/Jpm\nyn8NR/GsWTjV+mWxAW2hKAVM7qqYt0fHpFIsiZEPrNWn6JPGkiMu61FF0VN75PC6\nTyLO2gQoWWTeuFiF0SOoAWkViQ15KDYidYfg/5vxCQKBgQDlnRSiocJ23bxZWr6C\nKJBTopNipCXZWBGUZjHNeiNz1Xo1wUjETSp10mWZCwf/AzeGjOaFlgMjKLvrgml7\ndhNCTXabxPXGRBrVH8HVZGHg7zLZVILkjLgp8+ho0jjeG6ViWktTaoKRS4deLBa7\nCUlcylI6v+w4cxLIh/6V23XUcwKBgQDWxmvCNIBj1WuMSx/7w4ewylEF/roSUQ1n\n83PyjPcoDPlKWUOZjDhXA6YZDehg90AECjk2RIdGCb7mJkXhh9JRC/Y60LdSTFA2\nPFLhCvB56Rvdb0oOwQwmXzOvYscpn+1JfKyFRWOH73ZNw66q1njKdkB/o5+BvhNt\niYoIONl6TwKBgQDApqIorgYmi3a7lfqf5H7r3U1CBy3GhTECzRfeKitSxfuq3Ig8\nQ+5rOuOJnArSeRV+a/wCe1IYjtXVDO+J6hDQoYPxwDjiaEQHK4ULkRTakHeeh1zn\ne/YNJRuLz05tdM63jcEDtSrl03Q5nE5aEbmfBBYoOt1so4hP/mKpw5/CZwKBgQCT\nH+1lZc2lledMfZH1RyZGhvEl6C7SqU9DrFP7DXGpr+l9ctSJ9LILeWZot0w+UGE7\n4zz53cvEwJxS0FkCe6Yo+sa714odCEXSQVSM8I93E6aQ89GJddi62HBxbnr8Gp/T\nvWH5EWVzEyi5cJjQUocAOi1Iwm9b0zc/y/4QT9E6pQKBgHczKZLgzGYvNS7DrJ0c\nuZtH5HkK1Y1cVuLC/pFBm9CZx0htl3yPh0150QFB4Z8UaNcAJyYMRg9DK42EVbty\n/0yVWb1f4fA0z/k+1GQO40vkYAUs8vVbh4mnWlrI/4c1Bwlfb/ZQ2xxUtYFFPfav\nU/Z7b6eWibrDXwwEy3HW7E2t\n-----END PRIVATE KEY-----\n",
-  "client_email": "demo-speadsheets@demosheets-316218.iam.gserviceaccount.com",
-  "client_id": "111926433144386770559",
+  "project_id": "demosheets",
+  "private_key_id": "some_private_key_id",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nsome_private_key\n-----END PRIVATE KEY-----\n",
+  "client_email": "demo-speadsheets@demosheets.iam.gserviceaccount.com",
+  "client_id": "some_client_id",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/demo-speadsheets%40demosheets-316218.iam.gserviceaccount.com"
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/demo-speadsheets%40demosheets.iam.gserviceaccount.com"
 }
